@@ -56,7 +56,7 @@ from collections import Counter
 
 MODEL = "qwen/qwen3.6-plus:free"
 TARGET_URL = "https://botpenguin.com/"   
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "your-api-key-here"
 
 REQUEST_TIMEOUT = 20
 API_TIMEOUT = 30
